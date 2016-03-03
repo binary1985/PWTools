@@ -1,0 +1,8 @@
+Fast
+Slow
+Green
+Blue
+Red
+Ford
+Chevy
+Toyota
