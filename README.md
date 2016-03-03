@@ -1,7 +1,7 @@
 # PWTools
 A small collection of tools designed to increase password cracking success.
 
-Combination-Builder - Merge multiple wordlists to create every combination of the words in the wordlists.
+```Combination-Builder - Merge multiple wordlists to create every combination of the words in the wordlists.
 Usage is: ./combination-builder.py <input wordlist> <input wordlist 2> <additional lists optional>
 
 ./combination-builder.py sample\ wordlists/speeds.txt sample\ wordlists/colors.txt sample\ wordlists/cars.txt 
@@ -13,7 +13,7 @@ FastBlueChevy
 FastBlueToyota
 FastWhiteFord
 FastWhiteChevy
-...
+...```
 
 
 DictPhrase-Builder - Using a single wordlist, match each word with every other word in the file (x) amount of times.
