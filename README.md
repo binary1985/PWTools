@@ -65,17 +65,17 @@ head -n 5 passwords-mask.txt
 ?u?l?l?l?l?l?d?s,2 Occurances,11.1111111111%  
 
 
-##NTLMmyLM.py
-Using a output potfile list from LM Cracked hashes (which lose case-sensitivity) this script will generate all possibilities to be fed into STDIN oclHashcat Password Dump Format.
-
-python NTLMmyLM.py lm-cracked.txt   
-winter2017 . 
-winteR2017 . 
-wintEr2017 . 
-wintER2017
-winTer2017
-winTeR2017
-winTEr2017
+##NTLMmyLM.py  
+Using a output potfile list from LM Cracked hashes (which lose case-sensitivity) this script will generate all possibilities to be fed into STDIN oclHashcat Password Dump Format.  
+  
+python NTLMmyLM.py lm-cracked.txt  
+winter2017  
+winteR2017  
+wintEr2017  
+wintER2017  
+winTer2017  
+winTeR2017  
+winTEr2017  
 winTER2017
 wiNter2017
 wiNteR2017
