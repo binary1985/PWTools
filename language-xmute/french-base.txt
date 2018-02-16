@@ -1,0 +1,28 @@
+administrateur
+tester
+client
+Info
+mot de passe
+secret
+administrateur
+défaut
+Sécurité
+change moi
+installer
+Bienvenue
+été
+printemps
+tomber
+hiver
+janvier
+février
+Mars
+avril
+mai
+juin
+juillet
+août
+septembre
+octobre
+novemeber
+décembre
