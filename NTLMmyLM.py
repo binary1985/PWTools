@@ -23,11 +23,11 @@ def buildcase(istr):
     return ["".join(lstitem) for lstitem in product(*lst)]
 
 if len(sys.argv) < 2:
-	print "Usage: "+sys.argv[0]+" <lm passwords words>" 
+	print ("Usage: "+sys.argv[0]+" <lm passwords words>")
 	sys.exit()
 
 if os.path.isfile(sys.argv[1]) == False:
-	print "Unable to find "+sys.argv[1]
+	print ("Unable to find "+sys.argv[1])
 	sys.exit()
 
 
@@ -40,4 +40,4 @@ with open(sys.argv[1]) as f:
 	for line in result:
 		items =buildcase(line.rstrip('\r\n'))
 		for word in items:
-			print word
+			print (word)
