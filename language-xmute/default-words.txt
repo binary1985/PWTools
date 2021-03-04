@@ -13,6 +13,7 @@ welcome
 summer
 spring
 fall
+autumn
 winter
 january
 february
